@@ -22,7 +22,7 @@ The E-commerce Data Analysis project focuses on analyzing online retail data to 
 - Pandas
 - Matplotlib
 - Seaborn
-
+- Jupyter Notebook
 
 ### Data Sources
 "The Sample - Superstore.csv" file contains transactional data from a retail superstore, including order details, product categories, sales, profit, discounts, customer demographics, and shipping information. This dataset is commonly used for sales analysis, profitability assessment, and customer segmentation.
